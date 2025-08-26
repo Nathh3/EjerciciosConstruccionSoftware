@@ -9,7 +9,7 @@ namespace EjemplosDesdeCasa
         {
             Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 
-            Console.WriteLine("PROGRAMA DE REVISION DE NOTAS ");
+            Console.WriteLine("PROGRAMA DE REVISION DE NOTAS PARA ESTUDIANTES");
 
             Console.WriteLine("Ingresa tu nombre estudiante: ");
             string name = Console.ReadLine();
